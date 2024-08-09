@@ -7,7 +7,7 @@ config = {};
 config.username = ''; // your username
 config.password = ''; // your password
 config.sharedSecret = '';
-config.games = [730, 10]
+config.games = [730, 10] // https://steamcommunity.com/app/730 You can find the GameID in every Steam game link. 730 is the CS2
 configsArray.push(config);
 
 
